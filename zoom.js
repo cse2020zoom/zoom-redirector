@@ -2,11 +2,11 @@ const zoom = {
     monday: [
         {
             endTime: 950,
-            url: "https://zoom.us/meeting/register/tJAod-uoqTgiHNNuEzs_PIPwu1U4sLRCE-9D"
+            url: "https://zoom.us/w/94502073867?tk=TCvOgHzAhJg0nqhTVt11asiWD-G4ecVUek8rovGRHXo.DQIAAAAWAMM2CxZ0SVBRQnlSS1JubUpUM2ZPcHJma3BnAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=cFY1SFlHNWk2R09SRmtsbXkxYlB1dz09"
         },
         {
             endTime: 1050,
-            url: "https://zoom.us/meeting/register/tJAod-uoqTgiHNNuEzs_PIPwu1U4sLRCE-9D"
+            url: "https://zoom.us/w/94502073867?tk=TCvOgHzAhJg0nqhTVt11asiWD-G4ecVUek8rovGRHXo.DQIAAAAWAMM2CxZ0SVBRQnlSS1JubUpUM2ZPcHJma3BnAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=cFY1SFlHNWk2R09SRmtsbXkxYlB1dz09"
         },
         {
             endTime: 1150,
@@ -24,7 +24,7 @@ const zoom = {
         },
         {
             endTime: 1150,
-            url: "https://zoom.us/meeting/register/tJMtcu-uqz4qHt321Ph3NLMwRY6A8bB5OlSz"
+            url: "https://zoom.us/w/97056655049?tk=VWb3GPKBDZ5E0KAyiYXNXfsxkBFZsOW6cBPTQU8_c-s.DQIAAAAWmQcGyRZUTlgzaUo5M1JfLWxzN3lMVHBxaWR3AAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=bEprWkIrb1diMmU1T1IxdVNTcFBOQT09"
         },
         {
             endTime: 1350,
