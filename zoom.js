@@ -2,119 +2,87 @@ const zoom = {
     monday: [
         {
             endTime: 950,
-            url: "https://zoom.us/j/94502073867?pwd=cFY1SFlHNWk2R09SRmtsbXkxYlB1dz09"
+            url: "https://zoom.us/j/91861853076?pwd=QmJqNm8zRWFWdHpFL1RvVzU1Rk44QT09"
         },
         {
             endTime: 1050,
-            url: "https://zoom.us/j/94502073867?pwd=cFY1SFlHNWk2R09SRmtsbXkxYlB1dz09"
+            url: "https://zoom.us/j/91861853076?pwd=QmJqNm8zRWFWdHpFL1RvVzU1Rk44QT09"
         },
         {
             endTime: 1150,
-            url: "https://zoom.us/j/2319763386?pwd=N0d0eEFwTXlib3hseitnNUZoVWhqdz09"
+            url: "https://zoom.us/meeting/register/tJwrcuGopz4uGdXMQJvoMDsDvfR98cMYF02G"
+        },
+        {
+            endTime: 1250,
+            url: "https://zoom.us/meeting/register/tJwrcuGopz4uGdXMQJvoMDsDvfR98cMYF02G"
         }
     ],
     tuesday: [
         {
-            endTime: 950,
-            url: "https://zoom.us/j/2319763386?pwd=N0d0eEFwTXlib3hseitnNUZoVWhqdz09"
-        },
-        {
             endTime: 1050,
-            url: "https://zoom.us/j/2319763386?pwd=N0d0eEFwTXlib3hseitnNUZoVWhqdz09"
+            url: "https://zoom.us/j/91861853076?pwd=QmJqNm8zRWFWdHpFL1RvVzU1Rk44QT09"
         },
         {
             endTime: 1150,
-            url: "https://zoom.us/w/97056655049?pwd=bEprWkIrb1diMmU1T1IxdVNTcFBOQT09"
+            url: "https://zoom.us/j/91474685444?pwd=MjJ3S2wwMzF5UUpTY1l6aDc0OXhSZz09"
         },
         {
-            endTime: 1350,
-            url: "https://zoom.us/j/92418422580?pwd=djRqYlVZMHZXY2ZFdmlyNkhEM2VBZz09"
-        },
-        {
-            endTime: 1450,
-            url: "https://zoom.us/j/92418422580?pwd=djRqYlVZMHZXY2ZFdmlyNkhEM2VBZz09"
-        },
-        {
-            endTime: 1550,
-            url: "https://zoom.us/j/96711579602?pwd=ZExybVVhSW9nYnV3RjUzN0xXb3NuQT09"
+            endTime: 1250,
+            url: "https://zoom.us/j/91474685444?pwd=MjJ3S2wwMzF5UUpTY1l6aDc0OXhSZz09"
         },
         {
             endTime: 1650,
-            url: "https://zoom.us/j/96711579602?pwd=ZExybVVhSW9nYnV3RjUzN0xXb3NuQT09"
-        }
+            url: "https://zoom.us/j/91474685444?pwd=MjJ3S2wwMzF5UUpTY1l6aDc0OXhSZz09"
+        },
+        {
+            endTime: 1750,
+            url: "https://zoom.us/j/91474685444?pwd=MjJ3S2wwMzF5UUpTY1l6aDc0OXhSZz09"
+        },
     ],
     wednesday: [
         {
             endTime: 950,
-            url: "https://zoom.us/j/93785999668?pwd=R3VHaU5lbTREOVNHOWNhNmZ1dC9FQT09"
+            url: ""
         },
         {
             endTime: 1050,
-            url: "https://zoom.us/j/2319763386?pwd=N0d0eEFwTXlib3hseitnNUZoVWhqdz09"
+            url: ""
         },
         {
             endTime: 1150,
-            url: "https://zoom.us/j/2319763386?pwd=N0d0eEFwTXlib3hseitnNUZoVWhqdz09"
+            url: ""
         },
-        {
-            endTime: 1350,
-            url: "https://zoom.us/j/95444347430?pwd=WjZOQU43MG5jMW8zSnkvT1dSd3lUUT09"
-        },        
-        {
-            endTime: 1450,
-            url: "https://zoom.us/j/95444347430?pwd=WjZOQU43MG5jMW8zSnkvT1dSd3lUUT09"
-        },       
-        {
-            endTime: 1550,
-            url: "https://zoom.us/j/92418422580?pwd=djRqYlVZMHZXY2ZFdmlyNkhEM2VBZz09"
-        },
-        {
-            endTime: 1650,
-            url: "https://zoom.us/j/92418422580?pwd=djRqYlVZMHZXY2ZFdmlyNkhEM2VBZz09"
-        }
     ],
     thursday: [
         {
             endTime: 950,
-            url: "https://zoom.us/j/2319763386?pwd=N0d0eEFwTXlib3hseitnNUZoVWhqdz09"
+            url: ""
         },
         {
             endTime: 1050,
-            url: "zoommtg://zoom.us/join?confno=93113183904&pwd=283422"
+            url: ""
         },
         {
             endTime: 1150,
-            url: "zoommtg://zoom.us/join?confno=93113183904&pwd=283422"
+            url: ""
         },
         {
-            endTime: 1350,
-            url: "https://zoom.us/j/94369140493?pwd=ZEp1ZUVrOVpNWXBadEo0SFlrZm5CQT09"
+            endTime: 1250,
+            url: "https://zoom.us/j/91474685444?pwd=MjJ3S2wwMzF5UUpTY1l6aDc0OXhSZz09"
         },
-        {
-            endTime: 1450,
-            url: "https://zoom.us/j/94369140493?pwd=ZEp1ZUVrOVpNWXBadEo0SFlrZm5CQT09"
-        },
-        {
-            endTime: 1550,
-            url: "https://zoom.us/j/97675775681?pwd=cWo5UkxyMmZqZ0FSSStqQXJGRU0yZz09"
-        },
-        {
-            endTime: 1650,
-            url: "https://zoom.us/j/97675775681?pwd=cWo5UkxyMmZqZ0FSSStqQXJGRU0yZz09"
-        }
     ],
     friday: [
         {
             endTime: 950,
-            url: "zoommtg://zoom.us/join?confno=95412046456&pwd=857198"
+            url: "https://zoom.us/meeting/register/tJMsde6qrDkjE9Bad_ah1vwHgnGEsqcCEJ0w"
         },
         {
             endTime: 1050,
-            url: "https://zoom.us/j/93785999668?pwd=R3VHaU5lbTREOVNHOWNhNmZ1dC9FQT09"
+            url: ""
         },
         {
             endTime: 1150,
-            url: "https://zoom.us/j/93785999668?pwd=R3VHaU5lbTREOVNHOWNhNmZ1dC9FQT09"
+            url: ""
         }
     ],
 }
