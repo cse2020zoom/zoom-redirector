@@ -32,11 +32,11 @@ const zoom = {
         },
         {
             endTime: 1650,
-            url: "https://zoom.us/j/91474685444?pwd=MjJ3S2wwMzF5UUpTY1l6aDc0OXhSZz09"
+            url: ""
         },
         {
             endTime: 1750,
-            url: "https://zoom.us/j/91474685444?pwd=MjJ3S2wwMzF5UUpTY1l6aDc0OXhSZz09"
+            url: ""
         },
     ],
     wednesday: [
