@@ -42,29 +42,29 @@ const zoom = {
     wednesday: [
         {
             endTime: 950,
-            url: ""
+            url: "zoommtg://zoom.us/join?confno=98971615040&pwd=186484"
         },
         {
             endTime: 1050,
-            url: ""
+            url: "https://zoom.us/meeting/register/tJIvd-GvpzgvEtbNX2R7ZEB6EGpWUAe3MeGh"
         },
         {
             endTime: 1150,
-            url: ""
+            url: "https://zoom.us/meeting/register/tJIvd-GvpzgvEtbNX2R7ZEB6EGpWUAe3MeGh"
         },
     ],
     thursday: [
         {
             endTime: 950,
-            url: ""
+            url: "zoommtg://zoom.us/join?confno=98971615040&pwd=186484"
         },
         {
             endTime: 1050,
-            url: ""
+            url: "zoommtg://zoom.us/join?confno=98971615040&pwd=186484"
         },
         {
             endTime: 1150,
-            url: ""
+            url: "https://zoom.us/meeting/register/tJIvd-GvpzgvEtbNX2R7ZEB6EGpWUAe3MeGh"
         },
         {
             endTime: 1250,
