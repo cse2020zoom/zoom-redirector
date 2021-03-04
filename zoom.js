@@ -30,14 +30,6 @@ const zoom = {
             endTime: 1250,
             url: "https://zoom.us/j/91474685444?pwd=MjJ3S2wwMzF5UUpTY1l6aDc0OXhSZz09"
         },
-        {
-            endTime: 1650,
-            url: ""
-        },
-        {
-            endTime: 1750,
-            url: ""
-        },
     ],
     wednesday: [
         {
@@ -64,7 +56,7 @@ const zoom = {
         },
         {
             endTime: 1150,
-            url: "https://zoom.us/meeting/register/tJIvd-GvpzgvEtbNX2R7ZEB6EGpWUAe3MeGh"
+            url: "https://zoom.us/meeting/register/tJAsduypqTIpHdZZZ41G35m4tFkB5cY-9GAV"
         },
         {
             endTime: 1250,
@@ -82,6 +74,14 @@ const zoom = {
         },
         {
             endTime: 1150,
+            url: ""
+        },
+        {
+            endTime: 1450,
+            url: ""
+        },
+        {
+            endTime: 1550,
             url: ""
         }
     ],
