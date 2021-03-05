@@ -78,11 +78,11 @@ const zoom = {
         },
         {
             endTime: 1450,
-            url: ""
+            url: "https://zoom.us/j/97568825846?pwd=UU9QM3BmVnNSRGd3L0tSY0VJUWhzZz09"
         },
         {
             endTime: 1550,
-            url: ""
+            url: "https://zoom.us/j/97568825846?pwd=UU9QM3BmVnNSRGd3L0tSY0VJUWhzZz09"
         }
     ],
 }
