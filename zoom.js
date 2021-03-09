@@ -27,8 +27,12 @@ const zoom = {
             url: "https://zoom.us/j/91474685444?pwd=MjJ3S2wwMzF5UUpTY1l6aDc0OXhSZz09"
         },
         {
-            endTime: 1250,
-            url: "https://zoom.us/j/91474685444?pwd=MjJ3S2wwMzF5UUpTY1l6aDc0OXhSZz09"
+            endTime: 1650,
+            url: "https://zoom.us/j/97568825846?pwd=UU9QM3BmVnNSRGd3L0tSY0VJUWhzZz09"
+        },
+                {
+            endTime: 1750,
+            url: "https://zoom.us/j/97568825846?pwd=UU9QM3BmVnNSRGd3L0tSY0VJUWhzZz09"
         },
     ],
     wednesday: [
@@ -76,14 +80,6 @@ const zoom = {
             endTime: 1150,
             url: ""
         },
-        {
-            endTime: 1450,
-            url: "https://zoom.us/j/97568825846?pwd=UU9QM3BmVnNSRGd3L0tSY0VJUWhzZz09"
-        },
-        {
-            endTime: 1550,
-            url: "https://zoom.us/j/97568825846?pwd=UU9QM3BmVnNSRGd3L0tSY0VJUWhzZz09"
-        }
     ],
 }
 
