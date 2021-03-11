@@ -74,11 +74,11 @@ const zoom = {
         },
         {
             endTime: 1050,
-            url: ""
+            url: "https://zoom.us/meeting/register/tJMofuuhpjwoGtePOto0BTw0lvrBOG76Np8u"
         },
         {
             endTime: 1150,
-            url: ""
+            url: "https://zoom.us/meeting/register/tJMofuuhpjwoGtePOto0BTw0lvrBOG76Np8u"
         },
     ],
 }
